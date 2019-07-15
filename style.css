@@ -20,6 +20,7 @@ img{
 }
 
 #details div{
+  padding: 0;
   display: block;
   float: left;
   width: 25%;
