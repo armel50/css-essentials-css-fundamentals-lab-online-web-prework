@@ -20,6 +20,6 @@ img{
 }
 
 #details div{
-  display: block;
+  display: inline;
   float: left;
 }
