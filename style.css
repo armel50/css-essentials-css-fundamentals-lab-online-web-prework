@@ -18,6 +18,9 @@ img{
   width: 800px;
   /*text-align: center;*/
 }
+#details{
+  padding: 0;
+}
 
 #details div{
   padding: 0;
